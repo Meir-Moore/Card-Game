@@ -1,1 +1,1 @@
-# War
+# Welcome to War card game!
