@@ -1,3 +1,4 @@
-# Welcome to War card game!
+# Simple code War card game
 
-My first simple game created in python ! :)
+The game is running in a command line, not anything gui :)
+
