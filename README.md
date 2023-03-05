@@ -1,4 +1,12 @@
-# Simple code War card game
+# Simple card-game - War
+Python 3.x
 
-The game is running in a command line, not anything gui :)
+- [Getting Started](#getting-started)
 
+## <a id="getting-started">Getting Started</a>
+
+1. `$ git clone https://github.com/Meir-Moore/Card-Game.git`
+2. `$ pip install -r requirements.txt`
+3. `$ python app.py`
+
+# Have fun!
