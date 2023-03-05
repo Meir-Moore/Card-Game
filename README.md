@@ -8,4 +8,4 @@ Python 3.x
 2. `$ pip install -r requirements.txt`
 3. `$ python app.py`
 
-# Have fun!
+# Have fun :)
