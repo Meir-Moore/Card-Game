@@ -1,7 +1,6 @@
 # Simple card-game - War
 Python 3.x
 
-- [Getting Started](#getting-started)
 
 ## <a id="getting-started">Getting Started</a>
 
