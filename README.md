@@ -10,3 +10,4 @@ Python 3.x
 
 # Game rules:
 Line up each of your 26 cards face-down directly across from your opponent's 26 cards. Go down the line and flip each card, as your opponent flips each card. Collect the pairs of cards that you win and repeat. Play until one player wins all of the cards.
+#
