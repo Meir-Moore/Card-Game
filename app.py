@@ -120,8 +120,7 @@ def play_round(player, computer):
                 player.win_war()
                 computer.lose_war()
                 break
-            elif player
-                        card < computer.card:
+            elif player.card < computer.card:
                 for c in player.war_deck:
                     computer.add_war_card(c)
                 for c in computer.war_deck:
